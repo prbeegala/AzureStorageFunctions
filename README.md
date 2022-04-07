@@ -1,0 +1,2 @@
+# AzureStorageFunctions
+ 
